@@ -1,2 +1,3 @@
 # Projects
-Repository of Projects -  PGP AI Course + Hackathons
+Sample collection of projects done by Prakhar Prasad. 
+
